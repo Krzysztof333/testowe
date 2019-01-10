@@ -11,6 +11,7 @@ public class testowy_script1 : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Debug.log("Hello World!");
+        Debug.log("dalsze zmiany");
 	}
 	
 	// Update is called once per frame
