@@ -12,6 +12,7 @@ public class testowy_script1 : MonoBehaviour {
 	void Start () {
         Debug.log("zmiany pocz¹tkowe");
         Debug.log("dalsze zmiany");
+        Debug.log("Ka¿d¹ zmianê trzeba zatwierdziæ przed wypchniêciem");
 	}
 	
 	// Update is called once per frame
