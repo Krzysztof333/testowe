@@ -7,15 +7,15 @@ public class dane_test1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Obiekt zoastał zapisany");
-        Debug.log("zmiany początkowe");
-        Debug.log("dalsze zmiany");
-        Debug.log("Każdą zmianę trzeba zatwierdzić przed wypchnięciem");
+    
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("Obiekt zoastał zapisany");
+        Debug.Log("zmiany początkowe");
+        Debug.Log("dalsze zmiany");
+        Debug.Log("Każdą zmianę trzeba zatwierdzić przed wypchnięciem i zapisać ale zamknąć Unity");
     }
 }
