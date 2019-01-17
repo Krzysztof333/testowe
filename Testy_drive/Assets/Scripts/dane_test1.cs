@@ -17,5 +17,6 @@ public class dane_test1 : MonoBehaviour
         Debug.Log("zmiany początkowe");
         Debug.Log("dalsze zmiany");
         Debug.Log("Każdą zmianę trzeba zatwierdzić przed wypchnięciem i zapisać ale zamknąć Unity");
+        Debug.Log("Dodałem nową zmianę a mianowiecie zainstalowałem asset git Unity3D");
     }
 }
